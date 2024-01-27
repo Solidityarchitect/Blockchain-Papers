@@ -1,0 +1,14 @@
+.DS_Store
+*.aux
+*.bbl
+*.blg
+*.log
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.out
+
+Version.tex
+
+.idea
+
